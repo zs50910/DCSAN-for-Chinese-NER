@@ -1,0 +1,1 @@
+# Dynamic-Modeling-Cross--and-Self-Lattice-Attention-Network-for-Chinese-NER.-AAAI2021-
