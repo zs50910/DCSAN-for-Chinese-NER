@@ -3,5 +3,4 @@ Dynamic Modeling Cross- and Self-Lattice Attention Network for Chinese NER.https
 
 gaz_file：https://ai.tencent.com/ailab/nlp/zh/data/Tencent_AILab_ChineseEmbedding.tar.gz
 
-
-This code works on Python 3 & pytorch and the following repository https://github.com/v-mipeng/LexiconAugmentedNER gives me much help.
+This repository is based on the excellent open-source projects https://github.com/v-mipeng/LexiconAugmentedNER and https://github.com/fastnlp/TENER
